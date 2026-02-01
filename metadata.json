@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Birthday Particles",
+  "description": "A romantic interactive particle scene that reacts to hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
